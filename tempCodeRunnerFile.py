@@ -1,0 +1,1 @@
+class Simple_drawing_window1(QWidget):
